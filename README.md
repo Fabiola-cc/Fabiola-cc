@@ -3,7 +3,7 @@
 I'm currently studying Computer Science Engineering and exploring the endless possibilities that tech has to offer. I enjoy learning new tools, building projects, and diving into both frontend and backend development.
 
 🧠 **What I'm into lately:**
-- Software Development with Python, C++, and Java
+- Software Development with Python, and Java
 - Web technologies like React, Node.js & Express
 - Working with databases (SQL, MongoDB, Neo4j)
 - Exploring AI/ML with tools like PyTorch, Scikit-learn, and Pandas
@@ -23,7 +23,6 @@ I'm currently studying Computer Science Engineering and exploring the endless po
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fabiola-cc&theme=dark&hide_border=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Fabiola-cc&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiola-cc&theme=dark&hide_border=false&count_private=false&layout=compact&exclude_repo=InmoValor_SA,CineVision_Studios,IA_lab2)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fabiola-cc&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
